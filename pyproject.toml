@@ -1,0 +1,15 @@
+[project]
+name = "devin-keysmith"
+version = "0.1.1"
+description = "Managed instruction deployment for the Devin CLI. Preview-first, manifest-owned, reversible."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
