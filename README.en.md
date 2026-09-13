@@ -16,6 +16,8 @@ never reads accounts or credentials.
 > This changes **new sessions** started after install. By default you only
 > see the plan; `--yes` writes. Start a fresh Devin session afterward.
 
+> Full install guide (tiếng Việt): [docs/install.md](docs/install.md) — requirements, all modes, verification, troubleshooting, exit codes.
+
 ## Usage
 
 1. **Preview.** Nothing is written before confirmation.
